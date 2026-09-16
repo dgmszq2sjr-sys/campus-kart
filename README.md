@@ -12,7 +12,7 @@ Campus Kart is a React + Vite student rental frontend for CITCHENNAI CSE 2025 us
 
 ## Requirements
 
-See `requirements.txt`.
+See `REQUIREMENTS.md`.
 
 ## Setup
 

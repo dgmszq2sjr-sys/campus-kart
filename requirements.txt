@@ -1,0 +1,11 @@
+Node.js 20 or later
+npm 10 or later
+
+Install dependencies:
+npm install
+
+Run the development server:
+npm run dev
+
+Build for production:
+npm run build
